@@ -12,7 +12,7 @@
         <p>Book your stay with us!</p>
     </header>
     <main>
-    <div class="bg">
+
         <form action="booking.php" method="POST">
             <label for="name">Full Name:</label>
             <input type="text" id="name" name="name" required>
